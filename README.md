@@ -8,5 +8,5 @@ Full version of game created on the Ludum Dare 43 (game jam) in Unity.
 
 
 <p align="center">
-  <img src="https://i.imgur.com/ezHz8x6.png" width="800px">
+  <img src="https://i.imgur.com/ezHz8x6.png">
 </p>
