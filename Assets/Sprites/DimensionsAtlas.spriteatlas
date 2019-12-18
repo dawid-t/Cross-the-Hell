@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DimensionsAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 871a0b1b6e15a4b40b6fab8f88eb47d9, type: 3}
+    - {fileID: 102900000, guid: 53a5846272c064340848f5c8eac8431c, type: 3}
+    totalSpriteSurfaceArea: 688384
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a857c26043cebec4fb19acddec9ac599, type: 3}
+  - {fileID: 21300000, guid: 1f2a21b17898d01458ec9589ce3e7763, type: 3}
+  - {fileID: 21300000, guid: c5aba9c1136b6164e91206c959e80f3e, type: 3}
+  - {fileID: 21300000, guid: 5e4528421aa9b064f973d595abcc2014, type: 3}
+  - {fileID: 21300000, guid: 77ec6aa231ae2264f88a8bf59262d08d, type: 3}
+  - {fileID: 21300000, guid: b66394c21d7512646b02b5acb4bde3c5, type: 3}
+  - {fileID: 21300000, guid: f0569f33771175b4d92108c78a0310e4, type: 3}
+  - {fileID: 21300000, guid: f2775e73613ed834f9af20bd54312c5a, type: 3}
+  - {fileID: 21300000, guid: 75de2e54151852341bfe3449bc1e0e0e, type: 3}
+  - {fileID: 21300000, guid: 3dd64ef436863204bbff5a97845f3045, type: 3}
+  - {fileID: 21300000, guid: a301572569a5ac04c892f5b2219ebd94, type: 3}
+  - {fileID: 21300000, guid: 797504555b8c3284186be4e4ce94a2f5, type: 3}
+  - {fileID: 21300000, guid: c00d0c657f02c7149823835d9423a260, type: 3}
+  - {fileID: 21300000, guid: 5d267795e038f0b4fa9a99141d424f50, type: 3}
+  - {fileID: 21300000, guid: fcb7cd773221d194c90e1768f03e4d3d, type: 3}
+  - {fileID: 21300000, guid: 3b61b497e8d46824c8d655665fa6e1e8, type: 3}
+  - {fileID: 21300000, guid: 49a6c7c7cb5516b48960f3dc86bbc871, type: 3}
+  - {fileID: 21300000, guid: 3a31ade73ab5252419cf64eed907fae7, type: 3}
+  - {fileID: 21300000, guid: 08e3ea78ec24d914794e800332e63c31, type: 3}
+  - {fileID: 21300000, guid: c0246d796cf86bc4d8da3d456736ba9a, type: 3}
+  - {fileID: 21300000, guid: dbcfd5d9350a01a41aedc9bf57864d81, type: 3}
+  - {fileID: 21300000, guid: 17935b2aed9551c43a5ad4ac0bb61b2b, type: 3}
+  - {fileID: 21300000, guid: a9e5274a094b77f4a9e72a1eb3e28381, type: 3}
+  - {fileID: 21300000, guid: 4225794aaec3d6a43a988b15ec1ad2d6, type: 3}
+  - {fileID: 21300000, guid: ccebcd0b36eac5a42b29542abaeb4bb2, type: 3}
+  - {fileID: 21300000, guid: 8870022b88d7abd4b9938fa7ab7ccf7a, type: 3}
+  - {fileID: 21300000, guid: 19059dcbd1ea29740bc2d972f99bb912, type: 3}
+  - {fileID: 21300000, guid: cc48b7db2c956c4458df5c1a8690d96f, type: 3}
+  - {fileID: 21300000, guid: 13c88adb2d73aee418815d83b1d2f5f3, type: 3}
+  - {fileID: 21300000, guid: a27b047c5bc33f94bb3e7b7f7984b346, type: 3}
+  - {fileID: 21300000, guid: 2ad542ec36074ff4bbd3352ac246878a, type: 3}
+  - {fileID: 21300000, guid: 406076fc2e7950548a4209d5dfdae39b, type: 3}
+  - {fileID: 21300000, guid: 41ee052da3d6e05479388d179be80214, type: 3}
+  - {fileID: 21300000, guid: 309611fdde3d25a49a3f3509c2e50c38, type: 3}
+  - {fileID: 21300000, guid: 7211f9fe531e03f43a63e3f29af78a3a, type: 3}
+  - {fileID: 21300000, guid: 66721b0faaa4dda428e8cc952b62a669, type: 3}
+  - {fileID: 21300000, guid: ff99ce0fe38e32c41b23f77dd2cf23ba, type: 3}
+  - {fileID: 21300000, guid: a4d9143f79fbb134ea040a5a510a8bf0, type: 3}
+  - {fileID: 21300000, guid: 66ec6d3f2036cdf42857ad5dad9b43f5, type: 3}
+  - {fileID: 21300000, guid: b3677c8fb15bd744d9604ddbaf4b19f3, type: 3}
+  - {fileID: 21300000, guid: 2baa2daf9c3badc40b0e3cc2cf67876d, type: 3}
+  - {fileID: 21300000, guid: 9a3bc2ef8109c254d9f42d6e988ab2d4, type: 3}
+  - {fileID: 21300000, guid: dd9409ffde8588a48b65a549ffbef7d8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Cartoon Jungle Game Tileset_Platformer - Ground 07
+  - Cartoon Jungle Game Tileset_Platformer - Wooden Box
+  - Cartoon Jungle Game Tileset_Platformer - Wooden Box
+  - Cartoon Jungle Game Tileset_Platformer - Ground 11
+  - Cartoon Jungle Game Tileset_Platformer - Brick 02
+  - Cartoon Jungle Game Tileset_Platformer - Ground 08
+  - Cartoon Jungle Game Tileset_Platformer - Ground 09
+  - Cartoon Jungle Game Tileset_Platformer - Ground 13
+  - Cartoon Jungle Game Tileset_Platformer - Spike
+  - Cartoon Jungle Game Tileset_Platformer - Ground 02
+  - Cartoon Jungle Game Tileset_Platformer - Ground 07
+  - Cartoon Jungle Game Tileset_Environment - Signpost 04
+  - Cartoon Jungle Game Tileset_Platformer - Ground 03
+  - Cartoon Jungle Game Tileset_Environment - Signpost 05
+  - Cartoon Jungle Game Tileset_Platformer - Brick 01
+  - Cartoon Jungle Game Tileset_Environment - Signpost 05
+  - Cartoon Jungle Game Tileset_Platformer - Ground 14
+  - Cartoon Jungle Game Tileset_Platformer - Ground 04
+  - Cartoon Jungle Game Tileset_Platformer - Ground 01
+  - Cartoon Jungle Game Tileset_Platformer - Ground 14
+  - Cartoon Jungle Game Tileset_Platformer - Ground 04
+  - Cartoon Jungle Game Tileset_Platformer - Spike
+  - Cartoon Jungle Game Tileset_Platformer - Ground 12
+  - Cartoon Jungle Game Tileset_Platformer - Ground 13
+  - Cartoon Jungle Game Tileset_Platformer - Ground 02
+  - Cartoon Jungle Game Tileset_Environment - Signpost 01
+  - Cartoon Jungle Game Tileset_Platformer - Ground 05
+  - Cartoon Jungle Game Tileset_Environment - Signpost 01
+  - Cartoon Jungle Game Tileset_Platformer - Stone
+  - Cartoon Jungle Game Tileset_Platformer - Ground 12
+  - Cartoon Jungle Game Tileset_Platformer - Ground 03
+  - Cartoon Jungle Game Tileset_Platformer - Ground 09
+  - Cartoon Jungle Game Tileset_Platformer - Ground 08
+  - Door
+  - Cartoon Jungle Game Tileset_Platformer - Ground 11
+  - Cartoon Jungle Game Tileset_Platformer - Ground 06
+  - Cartoon Jungle Game Tileset_Platformer - Ground 01
+  - Cartoon Jungle Game Tileset_Platformer - Ground 10
+  - Cartoon Jungle Game Tileset_Platformer - Ground 06
+  - Cartoon Jungle Game Tileset_Environment - Signpost 04
+  - Cartoon Jungle Game Tileset_Platformer - Stone
+  - Cartoon Jungle Game Tileset_Platformer - Ground 05
+  - Cartoon Jungle Game Tileset_Platformer - Ground 10
+  m_Tag: DimensionsAtlas
+  m_IsVariant: 0
